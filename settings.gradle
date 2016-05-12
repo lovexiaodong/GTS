@@ -1,1 +1,1 @@
-include ':app', ':dialogtest'
+include ':app', ':dialogtest', ':actionbartest'
